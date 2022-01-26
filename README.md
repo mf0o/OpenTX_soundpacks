@@ -8,7 +8,7 @@ Christopher:
 
 <audio controls=true src="https://github.com/mf0o/OpenTX_soundpacks/blob/main/samples/welcome_christopher.wav"/>
 
-<audio controls=true src="https://github.com/mf0o/OpenTX_soundpacks/blob/main/samples/welcome_christopher.mp4"/>
+https://github.com/mf0o/OpenTX_soundpacks/blob/main/samples/welcome_christopher.mp4
 
 softer Christopher:
 
