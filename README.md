@@ -6,9 +6,9 @@ A friend pointed me to the neuronal text-to-speech service of Microsoft Azure, s
 
 Christopher: 
 
-<audio controls=true src="samples/welcome_christopher.wav"/>
+<audio controls=true src="https://github.com/mf0o/OpenTX_soundpacks/blob/main/samples/welcome_christopher.wav"/>
 
-<audio controls=true src="samples/welcome_christopher.mp4"/>
+<audio controls=true src="https://github.com/mf0o/OpenTX_soundpacks/blob/main/samples/welcome_christopher.mp4"/>
 
 softer Christopher:
 
