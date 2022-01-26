@@ -6,16 +6,18 @@ A friend pointed me to the neuronal text-to-speech service of Microsoft Azure, s
 
 Christopher: 
 
-<audio controls=true src="samples/Welcome_Christopher.wav"/>
+<audio controls=true src="samples/welcome_christopher.wav"/>
+
+<audio controls=true src="samples/welcome_christopher.mp4"/>
 
 softer Christopher:
 
- <audio controls=true src="samples/Welcome_Christopher_soft.wav"/>
+ <audio controls=true src="samples/welcome_christopher_soft.wav"/>
 
 Michelle: 
 
-<audio controls=true src="samples/Welcome_Michelle.wav"/>
+<audio controls=true src="samples/welcome_michelle.wav"/>
 
 Aria: 
 
-<audio controls=true src="samples/Welcome_Aria.wav"/>
+<audio controls=true src="samples/welcome_aria.wav"/>
